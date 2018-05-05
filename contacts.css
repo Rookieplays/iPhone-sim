@@ -1,0 +1,131 @@
+.btn{
+    -fx-background-color:#e6ffff;
+    -fx-background-radius: 5em;
+     -fx-background-radius: 5em; 
+     -fx-min-width: 73px;      
+     -fx-min-height: 73px;  
+     -fx-max-width: 200px;  
+     -fx-max-height: 200px;
+     -fx-border-radius: 5em;
+     -fx-border-color: red;
+     -fx-background-color: transparent;
+     -fx-font-size:30px;
+    
+   
+}
+.addPhoto{
+    -fx-background-color:#bfbfbf;
+    -fx-background-radius: 5em;
+     -fx-min-width: 53px;      
+     -fx-min-height: 53px;  
+     -fx-max-width: 60px;  
+     -fx-max-height: 60px;
+     -fx-font-size:28px;
+}
+.addPhoto:hover{
+    -fx-background-color:#e6e6e6;
+    
+}
+.hyperlinks:hover
+{
+    -fx-underline: false;
+    -fx-text-fill:white;
+}
+.textfields
+{
+      -fx-background-color: transparent;
+    
+     -fx-border-color:  transparent;
+     
+     -fx-font-size:16px;
+     -fx-font-family: cambria;
+     -fx-prompt-text-fill:#e6e6e6;
+     -fx-prompt-font-size:16px;
+     -fx-text-fill:black;
+}
+.back{
+        -fx-background-color: transparent;
+         -fx-background-radius: 5em; 
+     -fx-min-width: 33px;      
+     -fx-min-height: 33px;  
+     -fx-max-width: 70px;  
+     -fx-max-height: 70px;
+     -fx-font-size:12px;
+   
+}
+.spane{
+    -fx-background-color:transparent;
+}
+
+.contactElement:hover
+{
+    -fx-background-color:#bfbfbf;
+}
+.infoBox{
+
+}
+.back:hover{
+        -fx-background-color: transparent;
+        
+   
+}
+.profile_box
+{
+    -fx-background-color:#e6f2ff;
+}
+.iconText{
+    -fx-font: 55px Tahoma;
+    -fx-fill: white;
+   -fx-stroke: white;
+    -fx-stroke-width: 1;
+
+}
+.Profilebtns{
+    -fx-background-color:blue;
+    -fx-background-radius: 5em;
+     -fx-background-radius: 5em; 
+     -fx-min-width: 13px;      
+     -fx-min-height: 13px;  
+     -fx-max-width: 40px;  
+     -fx-max-height: 40px;
+   
+     
+     /*-fx-background-color: transparent;*/
+     -fx-font-size:30px;
+}
+.Profilebtns:hover{
+    -fx-background-color:#99ddff;
+}
+.btn:hover{
+    -fx-background-color:red;  /* Green */
+    -fx-color: red;
+    cursor:pointer; 
+     transition:-fx-background-color 0.7s
+    
+}
+ .caller{
+    -fx-background-radius: 5em;
+                -fx-min-width: 53px;
+                -fx-min-height: 53px;
+                -fx-max-width: 200px;
+                -fx-max-height: 200px;
+                -fx-border-color: transparent;
+                -fx-background-color: transparent;
+                -fx-font-size:36px;
+               
+      }
+      .caller:hover{
+
+        -fx-color:green;
+        -fx-background-color:#e6ffe6;  /* Green */
+    cursor:pointer; 
+     transition:-fx-background-color 0.7s
+         /*box-shadow: 0px 12px 16px 0px rgba(0,0,0,0.24), 0px 17px 50px 0px rgba(0,0,0,0.19);
+*/
+      }
+ .textfield{
+    -fx-font-size:20px;
+ }
+ .names{
+    -fx-font-size:45px;
+ }

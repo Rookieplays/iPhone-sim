@@ -1,0 +1,18 @@
+.profilebtns{
+	-fx-background-color:white;
+	-fx-background-radius: 5em;
+	
+     -fx-min-width: 23px;      
+     -fx-min-height: 23px;  
+     -fx-max-width: 50px;  
+     -fx-max-height: 50px;
+     -fx-border-color: red;
+    
+     -fx-font-size:30px;
+}
+.profilepic{
+		-fx-background-color: #b3b3b3;
+}
+.iconText{
+	-fx-font-size:30px;
+}
